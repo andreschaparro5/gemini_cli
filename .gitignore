@@ -1,0 +1,23 @@
+# Nim build artifacts
+nimcache/
+*.exe
+*.out
+*.app
+build/
+dist/
+
+# Nimble (package manager)
+pkgs/
+nimble.lock
+
+# Documentation
+htmldocs/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
