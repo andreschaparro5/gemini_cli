@@ -1,1 +1,2 @@
-nim c -d:danger --opt:speed --threads:on --mm:orc --panics:on -d:strip - d:ssl gemini_cli.nim
+# Gemini CLI nim version
+

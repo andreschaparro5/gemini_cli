@@ -6,6 +6,7 @@ import capabilities
 # ---------------------------------------------------------------------------
 
 const
+  #DefaultModel = "gemini-3.5-flash" # "gemini-3.1-flash-lite"
   DefaultModel = "gemini-3.1-flash-lite"
   ApiBase = "https://generativelanguage.googleapis.com/v1beta/models"
   SystemInstruction = """
