@@ -57,12 +57,11 @@ Start an interactive session:
 
 ### Interactive commands
 
-Command Description
-/help Show available commands
-/clear Clear conversation history
-/model <id> Switch the active Gemini model
-/save <file> Save the current session to a file
-/exit Quit the CLI
+Command Description:
+- /help Show available commands
+- /clear Clear conversation history
+- /save <file> Save the current session to a file
+- /exit Quit the CLI
 
 ### Example session
 
